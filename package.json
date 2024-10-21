@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "tailwindcss": "^3.4.14"
+  },
+  "name": "tubes-ipl",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "npx tailwindcss -i ./input.css -o ./src/assets/css/output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
